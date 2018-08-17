@@ -26,7 +26,7 @@ elements-*.tar
 .elixir_ls
 
 # Ignore .iex settings per project
-.iex.exs
+# .iex.exs
 
 # Ignore my workfile, this is just to hack around with code runner, it feels like im working on emacs :)
 workfile.exs
